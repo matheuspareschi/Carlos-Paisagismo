@@ -1,0 +1,74 @@
+.home-container {
+  background: #edede9;
+}
+
+.home-titulo {
+  text-align: center;
+  padding: 1rem;
+  color: #EDEDE9;
+  font-family: "Josefin Slab", serif;
+  font-weight: bolder;
+  font-size: 2rem;
+  background-color: #DDA15E;
+}
+
+.secao-de-conteudo-um {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.conteudo-secao-um {
+  width: 30%;
+}
+
+.conteudo-secao-um > p { 
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 2;
+  font-size: 1.4rem;
+  font-family: "Josefin Slab", serif;
+  font-weight: 600;
+  padding: 1rem;
+}
+
+.conteudo-secao-um > p > a {
+  font-weight: bolder;
+}
+
+.conteudo-secao-um > p > a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.carrossel-secao-um {
+  width: 30%;
+  height: 30%;
+  margin: 1rem;
+  border-radius: 10pt;
+  box-shadow: 0pt 0pt 2pt 0px black;
+}
+
+.img-carousel-imagensTrabalhos {
+  object-fit: cover;
+  width: 100%;
+  border-radius: 10pt;
+}
+
+.divisória {
+  padding:0.5rem;
+  background-color: #dda25e5b;
+}
+
+.secao-de-conteudo-dois {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.secao-de-conteudo-dois > img {
+  width: 33%;
+  margin: 0.3rem;
+  border-radius: 3pt;
+  box-shadow: 0pt 0pt 2pt 0px black;
+}

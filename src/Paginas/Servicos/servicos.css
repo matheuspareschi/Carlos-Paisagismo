@@ -1,0 +1,61 @@
+.servicos {
+  background-color: #edede9;
+}
+
+.servicos > h4 {
+  text-align: center;
+  color: #edede9;
+  font-family: "Josefin Slab", serif;
+  font-weight: bolder;
+  font-size: 2rem;
+  background-color: #dda15e;
+  padding-top: 0.4rem;
+}
+
+.servicos-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card {
+
+  width: 30%;
+  height: 30%;
+}
+
+
+
+.card > .card-body {
+  background-color: #7a884d;
+
+}
+
+.card-body  > .card-title {
+  font-size: 1.6rem;
+  color: #FEFAE0;
+  font-weight: 600;
+  font-family: "Josefin Slab", serif;
+  margin-top: 0.3rem;
+}
+
+.card-body  > .card-text { 
+  font-family: "Josefin Slab", serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #FEFAE0;
+  margin-top: 0rem;
+}
+
+.card > .card-body > button {
+  background-color: #FEFAE0 !important;
+  border: none;
+  color: #283618;
+  transition: 350ms;
+  margin-bottom: 0.5rem;
+}
+
+.card > .card-body > button:hover {
+  background-color: #fff7c3 !important;
+  font-weight: 600;
+}

@@ -1,0 +1,12 @@
+.footer-container {
+    background:#dda15e;
+    padding: 1rem;
+}
+
+.footer-container > h4 {
+    text-align: center;
+    color: #edede9;
+    font-family: "Josefin Slab", serif;
+    font-weight: bolder;
+    font-size: 1.6rem;
+}

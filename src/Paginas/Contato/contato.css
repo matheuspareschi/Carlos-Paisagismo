@@ -1,0 +1,32 @@
+.contato {
+  background-color: #edede9;
+}
+
+.contato > h4 {
+  text-align: center;
+  color: #edede9;
+  font-family: "Josefin Slab", serif;
+  font-weight: bolder;
+  font-size: 2rem;
+  background-color: #dda15e;
+  padding-top: 0.4rem;
+}
+
+.contato-container {
+  padding: 1rem 2rem;
+}
+
+.contato-container > form > div > button {
+    background-color:  #283618d5 !important; 
+    border: none;
+    padding: 0.3rem 1rem;
+    color: #edede9;
+    transition: 350ms;
+    margin-bottom: 0.5rem;
+}
+
+.contato-container > form > div > button:hover {
+    background-color:  #283618 !important;
+    font-weight: 600;
+  }
+  

@@ -1,0 +1,31 @@
+.header-container {
+    margin-top: -0.5rem;
+    margin-bottom: 0;
+}
+
+.navbar-header {
+    padding: 0;
+}
+
+.header-container > .navbar-header > .container-fluid {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: center !important;
+    background: #EDEDE9 !important;
+    margin: 0;
+    padding: 0.5rem;
+    padding: 1rem;
+}
+
+.header-container > .navbar-header > .container-fluid > a {
+    margin: 0 2rem;
+    font-family: "Josefin Slab", serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: #BC6C25;
+}
+
+.header-container > .navbar-header > .container-fluid > a:hover {
+    cursor: pointer;
+}
