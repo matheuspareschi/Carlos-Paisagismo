@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Carlos-Paisagismo/static/css/main.910e39ec.css",
+    "main.js": "/Carlos-Paisagismo/static/js/main.b3e89fc2.js",
+    "index.html": "/Carlos-Paisagismo/index.html",
+    "main.910e39ec.css.map": "/Carlos-Paisagismo/static/css/main.910e39ec.css.map",
+    "main.b3e89fc2.js.map": "/Carlos-Paisagismo/static/js/main.b3e89fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910e39ec.css",
+    "static/js/main.b3e89fc2.js"
+  ]
+}
